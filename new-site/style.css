@@ -477,6 +477,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    margin-right: 5px;
 }
 
 .icon-lg {
@@ -699,8 +700,13 @@ p {
     font-weight: 700;
 }
 
+a.social{
+    color: #fff!important;
+    font-size: 20px;
+}
+
 .social {
-    max-width: 400px;
+    max-width: 600px;
     margin: auto auto auto auto;
 }
 
