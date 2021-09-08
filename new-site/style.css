@@ -1047,3 +1047,13 @@ h4 {
         text-align: center;
     }
 }
+
+.remark{
+    font-size: 18px;
+    font-style: italic;
+}
+
+.remark>span{
+    font-style: initial;
+    font-size: initial;
+}
