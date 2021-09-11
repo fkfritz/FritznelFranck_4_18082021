@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/fkfritz/FritznelFranck_4_18082021/tree/main/new-site/sitemap.xml
